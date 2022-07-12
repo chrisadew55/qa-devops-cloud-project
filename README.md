@@ -8,3 +8,11 @@ The brief for this project was to create a web application using the Flask micro
 ![Pipeline diagram](https://user-images.githubusercontent.com/105214801/178483833-4229d52f-ffd0-4bae-aa63-726fbf3584e1.jpg)
 
 # Designing my app
+
+# CI/CD Pipeline
+
+# Risk assessment
+
+# Testing
+
+# My app
